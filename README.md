@@ -73,7 +73,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Developer:
 
-**Sumongal Dutta**  
+**Sumangal Dutta**  
 Founder & Developer, CarePulse  
 GitHub: [SumongalDutta](https://github.com/Sumangal-Dutta)
 
